@@ -1,0 +1,6 @@
+component,role,cas,canonical_smiles,formula,molar_mass_g_mol,minimum_nonzero_mass_g,maximum_mass_fraction,density_g_mL,density_source_url
+LiFSI,lithium_salt,171611-11-3,O=S(=O)(F)[N-]S(=O)(=O)F.[Li+],F2LiNO4S2,187.074,0.005,0.45,2.32,https://www.kishida.co.jp/product/catalog/detail/id/19757
+LiDFOB,lithium_salt,409071-16-5,O=C1O[B-](F)(F)OC1=O.[Li+],C2BF2LiO4,143.767,0.005,0.45,2.12,https://www.scbt.com/p/lithium-difluoro-oxalato-borate-409071-16-5
+DME,solvent,110-71-4,COCCOC,C4H10O2,90.122,0.02,0.9,0.867,https://www.sigmaaldrich.com/JO/en/product/sial/259527
+NDFA,solvent,1547-87-1,CN(C)C(=O)C(F)(F)F,C4H6F3NO,141.092,0.02,0.9,1.26,https://www.tcichemicals.com/MX/en/p/T3262
+TTE,solvent,16627-68-2,FC(F)C(F)(F)COC(F)(F)C(F)F,C5H4F8O,232.07,0.02,0.9,1.54,https://www.merckmillipore.com/AE/en/product/aldrich/933961

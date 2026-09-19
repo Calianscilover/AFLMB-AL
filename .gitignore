@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+outputs/feasible_candidates.csv
+outputs/selected_formulations.csv
+outputs/formulation_distances.pdf
