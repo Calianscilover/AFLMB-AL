@@ -1,0 +1,8 @@
+component,role,cas,formula,molar_mass_g_mol,density_g_mL,minimum_nonzero_mass_g,density_source_url,handling_note
+LiDFOB,primary_salt,409071-16-5,C2BF2LiO4,143.767,2.12,0.005,https://www.scbt.com/p/lithium-difluoro-oxalato-borate-409071-16-5,Keep dry and verify dissolution.
+NDFA,balance_solvent,1547-87-1,C4H6F3NO,141.09,1.26,0.02,https://www.tcichemicals.com/MX/en/p/T3262,Use dry material.
+TTE,cosolvent,16627-68-2,C5H4F8O,232.07,1.54,0.02,https://www.tcichemicals.com/CA/fr/p/T3069,Use dry material.
+FEC,cosolvent,114435-02-8,C3H3FO3,106.052,1.485,0.02,https://www.sigmaaldrich.com/US/en/product/aldrich/935905,Equilibrate to 25 C and ensure homogeneous liquid before weighing.
+LiNO3,salt_additive,7790-69-4,LiNO3,68.945,2.38,0.005,https://pubchem.ncbi.nlm.nih.gov/compound/10129889,Anhydrous material assumed; verify complete dissolution.
+VC,functional_additive,872-36-6,C3H2O3,86.046,1.355,0.005,https://www.sigmaaldrich.com/US/en/product/aldrich/809977,Equilibrate to 25 C before weighing.
+TMSP,functional_additive,1795-31-9,C9H27O3PSi3,298.544,0.89,0.005,https://www.tcichemicals.com/IE/en/p/P1217,Air- and moisture-sensitive; handle under inert atmosphere.

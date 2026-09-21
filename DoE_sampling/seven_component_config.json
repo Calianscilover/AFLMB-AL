@@ -1,0 +1,28 @@
+{
+  "design_name": "seven_component_amide_electrolyte",
+  "seed": 20260921,
+  "candidate_power": 14,
+  "selection_count": 16,
+  "temperature_C": 25,
+  "batch_mass_g": 5.0,
+  "mass_step_g": 0.0001,
+  "ndfa_per_lidfob_molar_ratio_bounds": [1.0, 5.0],
+  "lidfob_molarity_bounds_mol_L": [1.0, 2.5],
+  "solvent_pool_mass_fraction_bounds": {
+    "TTE": [0.0, 0.50],
+    "FEC": [0.0, 0.35],
+    "VC": [0.0, 0.05],
+    "TMSP": [0.0, 0.05]
+  },
+  "lino3_final_mass_fraction_bounds": [0.0, 0.02],
+  "blocks": 2,
+  "components": [
+    {"name": "LiDFOB", "role": "primary_salt", "cas": "409071-16-5", "formula": "C2BF2LiO4", "molar_mass_g_mol": 143.767, "density_g_mL": 2.12, "minimum_nonzero_mass_g": 0.005, "density_source_url": "https://www.scbt.com/p/lithium-difluoro-oxalato-borate-409071-16-5", "handling_note": "Keep dry and verify dissolution."},
+    {"name": "NDFA", "role": "balance_solvent", "cas": "1547-87-1", "formula": "C4H6F3NO", "molar_mass_g_mol": 141.09, "density_g_mL": 1.26, "minimum_nonzero_mass_g": 0.020, "density_source_url": "https://www.tcichemicals.com/MX/en/p/T3262", "handling_note": "Use dry material."},
+    {"name": "TTE", "role": "cosolvent", "cas": "16627-68-2", "formula": "C5H4F8O", "molar_mass_g_mol": 232.07, "density_g_mL": 1.54, "minimum_nonzero_mass_g": 0.020, "density_source_url": "https://www.tcichemicals.com/CA/fr/p/T3069", "handling_note": "Use dry material."},
+    {"name": "FEC", "role": "cosolvent", "cas": "114435-02-8", "formula": "C3H3FO3", "molar_mass_g_mol": 106.052, "density_g_mL": 1.485, "minimum_nonzero_mass_g": 0.020, "density_source_url": "https://www.sigmaaldrich.com/US/en/product/aldrich/935905", "handling_note": "Equilibrate to 25 C and ensure homogeneous liquid before weighing."},
+    {"name": "LiNO3", "role": "salt_additive", "cas": "7790-69-4", "formula": "LiNO3", "molar_mass_g_mol": 68.945, "density_g_mL": 2.38, "minimum_nonzero_mass_g": 0.005, "density_source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/10129889", "handling_note": "Anhydrous material assumed; verify complete dissolution."},
+    {"name": "VC", "role": "functional_additive", "cas": "872-36-6", "formula": "C3H2O3", "molar_mass_g_mol": 86.046, "density_g_mL": 1.355, "minimum_nonzero_mass_g": 0.005, "density_source_url": "https://www.sigmaaldrich.com/US/en/product/aldrich/809977", "handling_note": "Equilibrate to 25 C before weighing."},
+    {"name": "TMSP", "role": "functional_additive", "cas": "1795-31-9", "formula": "C9H27O3PSi3", "molar_mass_g_mol": 298.544, "density_g_mL": 0.89, "minimum_nonzero_mass_g": 0.005, "density_source_url": "https://www.tcichemicals.com/IE/en/p/P1217", "handling_note": "Air- and moisture-sensitive; handle under inert atmosphere."}
+  ]
+}

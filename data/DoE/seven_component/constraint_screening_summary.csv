@@ -1,0 +1,10 @@
+constraint,passed_candidates,failed_candidates
+total_mass,16384,0
+minimum_nonzero_mass,15356,1028
+NDFA_LiDFOB_molar_ratio,16383,1
+LiNO3_final_mass_fraction,16384,0
+LiDFOB_molarity,10258,6126
+TTE_solvent_pool_fraction,16384,0
+FEC_solvent_pool_fraction,16384,0
+VC_solvent_pool_fraction,16384,0
+TMSP_solvent_pool_fraction,16384,0
