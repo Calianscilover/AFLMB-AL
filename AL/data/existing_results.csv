@@ -1,0 +1,5 @@
+pool_id,round,y,predicted_mean,predicted_std,Temperature [K],Lithium salt concentration [mol/L],EC mass ratio,EC viscosity [cP],EC dielectric constant/10,EC DN/10,DMC/EMC mass ratio,DMC/EMC viscosity [cP],DMC/EMC dielectric constant,DMC/EMC DN/10,EA/EB mass ratio,EA/EB viscosity [cP],EA/EB dielectric constant,EA/EB DN/10
+2,0,669.52,,,2.9815,1.2,3,1.93,0.896,1.64,3,0.5805,0.3108,1.72,4,0.426,0.602,1.71
+35,0,497.177602,,,2.9815,1.4,3,1.93,0.896,1.64,5,0.65,0.296,1.68,2,0.613,0.51,1.68
+29,0,307.702492,,,2.9815,1,3,1.93,0.896,1.64,3,0.65,0.296,1.68,4,0.613,0.51,1.68
+8,0,541.61,,,2.9815,1.6,3,1.93,0.896,1.64,5,0.5805,0.3108,1.72,2,0.426,0.602,1.71
